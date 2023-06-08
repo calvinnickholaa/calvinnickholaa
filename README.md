@@ -11,9 +11,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <br><br>
-**📈 My Github Stats**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=calvinnickholaa&show_icons=true&theme=gotham" alt="calvinnickholaa" />
 
 <!--
 **calvinnickholaa/calvinnickholaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
