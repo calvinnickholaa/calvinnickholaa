@@ -12,6 +12,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <br><br>
 
+### Github Statistic
+<p align="left">
+<a href="https://github.com/calvinnickholaa">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=waniAEbro&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=calvinnickholaa&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 <!--
 **calvinnickholaa/calvinnickholaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
